@@ -3,7 +3,7 @@
 This is a responsive e-commerce landing page for a nasal clip product. Built with HTML, Tailwind CSS, and vanilla JavaScript. It includes modern UI components such as a hero section, product gallery, testimonials carousel, pricing plans, and more.
 
 ## 🚀 Live Demo
-[View Live Demo]((https://noseclip.netlify.app/))
+https://noseclip.netlify.app/
 
 ## 🧩 Features
 - Fully responsive layout
@@ -21,7 +21,7 @@ This is a responsive e-commerce landing page for a nasal clip product. Built wit
 ## ⚙️ Setup & Usage
 
 # Clone the repository
-- git clone [https://github.com/your-username/nasal-clip-landing-page.git](https://github.com/Masumiub/NoseClip.git)
+- git clone https://github.com/Masumiub/NoseClip.git
 
 # Navigate into the project directory
 - cd nasal-clip-landing-page
