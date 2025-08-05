@@ -21,7 +21,7 @@ This is a responsive e-commerce landing page for a nasal clip product. Built wit
 ## ⚙️ Setup & Usage
 
 # Clone the repository
-- git clone https://github.com/your-username/nasal-clip-landing-page.git
+- git clone [https://github.com/your-username/nasal-clip-landing-page.git](https://github.com/Masumiub/NoseClip.git)
 
 # Navigate into the project directory
 - cd nasal-clip-landing-page
